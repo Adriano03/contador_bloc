@@ -8,5 +8,5 @@ Esse aplicativo é dedicado ao uso apenas do bloc para gerência de estado para 
 
 - Exemplos com o blocBuilder;
 - Exemplos com o blocListener;
-- E repatoração com o blocConsumer que aceita os dois tipos de bloc acima;
-- Exemplos utilizando o blocHydrated para armazenar  dados;
+- E refatoração com o blocConsumer que aceita os dois tipos de blocs acima;
+- Exemplos utilizando o blocHydrated para armazenar o estado;
